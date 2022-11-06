@@ -58,3 +58,4 @@ The below image shows the most frequently used Ending locations within NYC.
 
 In summary, male subscribers are the most frequent users of the Citi Bike program. They frequently ride on Thursdays and Fridays. Popular starting locations for the bikes are also popular ending locations, where most customers are riding the bikes for more than 20 minutes, assuming they stay close to the origin of the bike starting location while they are riding. Additionally, having a visualization of popular locations for customers would help to identify the types of tourist attractions users like to visit.
 
+See story at https://public.tableau.com/views/BikeSharingChallange/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
